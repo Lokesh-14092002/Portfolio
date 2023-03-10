@@ -261,6 +261,7 @@ section .button button:hover{
 }
 .skills-details .boxes .topic{
   font-size: 25px;
+  align-items: center;
   color:var(--primary-color);
 }
 .skills-details .boxes .per{
